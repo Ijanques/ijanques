@@ -2,9 +2,9 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-ijanques-8742581b8/)
 
-![ijanques's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijanques&show_icons=true&theme=dracula)
+![ijanques's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ijanques&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijanques&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ijanques&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias em que possuo conhecimento
 
