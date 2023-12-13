@@ -19,7 +19,7 @@
 </div><br/>
 
 
-## Atualmente trabalhando na produção e manutenção de monitoramentos continuos por meio da ferramenta ACL na área de auditoria interna. Um apaixonado por tecnologia, programação e data-science. Meu tempo livre é gasto em jogos online e estudos sobre programação
+## Atualmente trabalhando na área de governança de TI. Um apaixonado por tecnologia, programação e data-science. Meu tempo livre é gasto em jogos online e estudos sobre programação
 
 
 
